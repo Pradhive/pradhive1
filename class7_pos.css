@@ -1,0 +1,48 @@
+/* div.static{
+    position: static;
+    border: 3px solid blue;
+    top: 50px;
+}
+
+div.relative{
+    position: relative;
+    border: 3px solid blue;
+    top: 20px;
+    left:50px;
+}
+
+
+div.fixed{
+    position: fixed;
+    border: 3px solid blue;
+    bottom: 0;
+    right:0;
+    width: 300px;
+} */
+
+/* div.relative{
+    position: relative;
+    border: 3px solid blue;
+    width: 400px;
+    height: 200px;
+}
+
+div.absolute{
+    position: absolute;
+    border: 3px solid blue;
+    top: 80px;
+    right: 0;
+    height:100px;
+    width: 200px;
+} */
+
+
+div.sticky{
+    position: sticky;
+    border: 3px solid blue;
+    top: 0;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+
+}

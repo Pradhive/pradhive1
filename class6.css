@@ -1,0 +1,24 @@
+.firstbox{
+    border: black 2px solid; text-align: center;
+}
+#internal_ul{
+    background-color: coral;
+}
+ol{
+    background-color: orange;
+}
+p{
+    background-color: rgb(255, 127, 223);
+}
+p[name="first"]{
+    text-align: right;
+}
+body{
+    background-color: crimsons;
+}
+img{
+    border-radius: 5%;
+}
+video{
+    border-radius: 5%;
+}
